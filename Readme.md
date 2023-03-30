@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Виктор Булыгин](https://up.htmlacademy.ru/htmlcss/36/user/2299577).
-* Наставник: [Маргарита Шабельникова](https://htmlacademy.ru/profile/id1974723)
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273)
 
 ---
 
